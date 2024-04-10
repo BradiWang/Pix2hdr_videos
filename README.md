@@ -2,9 +2,11 @@ Reconstructed 128x128 HDR videos. 64x64 sub-frames are listed on the left side.
 
 
 Regular speed. Wearing glasses beside the window.
+
 https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/797f9745-7508-4f60-8d83-007b5bc12c7b
 
 Regular speed. Rotating fan with 
+
 https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/eecb4638-2200-49d3-abb9-68df89eb28ef
 
 
