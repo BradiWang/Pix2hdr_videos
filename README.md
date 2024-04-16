@@ -8,7 +8,7 @@ Due to our PE-CMOS resolution size, the HDR videos are trimmed into 128x128. We 
 
 Unless otherwise notified, the layout and frame rates of the videos will be consistent with the following image:
 
-![video_layout_image](https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/739ceb31-3451-4ede-9d4b-56886aaa295c)
+<img src="https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/739ceb31-3451-4ede-9d4b-56886aaa295c" width=500px>
 
 Videos will be displayed at their original speed (1000FPS) or slowed down by 330 times (30FPS).
 
