@@ -13,13 +13,13 @@ Unless otherwise notified, the layout and frame rates of the videos will be cons
 Videos will be displayed at their original speed (1000FPS) or slowed down by 330 times (30FPS).
 
 
-**Wearing glasses beside the window**. 
+## Wearing glasses beside the window
 
 Original speed (1000FPS):
 
 https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/797f9745-7508-4f60-8d83-007b5bc12c7b
 
-**Rotating fan**. 
+## Rotating fan
 Original speed (1000FPS):
 
 https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/eecb4638-2200-49d3-abb9-68df89eb28ef
@@ -28,7 +28,7 @@ https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/eecb4638-2200-49d3-a
 
 https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/bedfad05-cc3e-4e1c-a30c-2357df83e1c5
 
-**Pouring water**. 
+## Pouring water
 Original speed (1000FPS): 
 
 https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/5bce82c2-c2a7-4ab1-96ab-d8a2dc5eb6f6
@@ -37,7 +37,7 @@ https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/5bce82c2-c2a7-4ab1-9
 
 https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/631519f6-e35d-4fe8-b329-348a8b246fc2
 
-**Dropping cork**. 
+## Dropping cork
 Original speed (1000FPS): 
 
 https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/0d6db885-10bd-4d53-8f5c-bf4771b29288
