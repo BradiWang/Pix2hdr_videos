@@ -15,11 +15,11 @@ https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/bedfad05-cc3e-4e1c-a
 
 Regular speed. Pouring water.
 
-https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/cd8fc77e-d325-4605-b5f4-6bc2b6653000
+https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/5bce82c2-c2a7-4ab1-96ab-d8a2dc5eb6f6
 
 330x slower. Pouring water.
 
-https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/7a7f65ff-59e0-40e1-aa89-582ca8b5a058
+https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/631519f6-e35d-4fe8-b329-348a8b246fc2
 
 Regular speed. Dropping cork.
 
