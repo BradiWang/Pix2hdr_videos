@@ -17,16 +17,16 @@ Videos will be displayed at their original speed (1000FPS) or slowed down by 330
 
 Original speed (1000FPS):
 
-https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/797f9745-7508-4f60-8d83-007b5bc12c7b
+https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/3c68c893-80cd-422a-afac-b62e4ac5e606
 
 ## Rotating fan
 Original speed (1000FPS):
 
-https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/eecb4638-2200-49d3-abb9-68df89eb28ef
+https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/dac473a1-3488-4f75-8141-0e5acfe27ea5
 
 330x slower (30FPS):
 
-https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/bedfad05-cc3e-4e1c-a30c-2357df83e1c5
+https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/cdf9548f-aa2f-4636-a7cd-c1bdea634afb
 
 ## Pouring water
 Original speed (1000FPS): 
@@ -40,11 +40,11 @@ https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/631519f6-e35d-4fe8-b
 ## Dropping cork
 Original speed (1000FPS): 
 
-https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/0d6db885-10bd-4d53-8f5c-bf4771b29288
+https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/43eb766a-c556-4764-a9e0-23f1fe96c687
 
 330x slower (30FPS):
 
-https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/ee28608e-dcd7-4e21-8b6a-b24a1d3894ba
+https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/26af3a61-5e1f-42e8-8690-6f26f4f8eb3b
 
 
 
@@ -52,4 +52,6 @@ https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/ee28608e-dcd7-4e21-8
 
 200x slower. Comparison of 1:4, 1:8, and 1:16.
 
-https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/e9c07eb3-c989-494c-bdf9-1bcd11ff96d6
+https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/4fe7bcd0-f920-4156-ba04-caf382f7de1c
+
+https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/8dd96937-5510-4d86-b9bc-9bfd0f8cfe21
