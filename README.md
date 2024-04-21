@@ -49,9 +49,17 @@ https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/26af3a61-5e1f-42e8-8
 
 
 
+## Extending dynamic range
+To quantify the dy namic range enhancement from our method, we set the PE-CMOS pixels in 3 different configurations, with min-max pixel exposure ratios of 1:4, 1:8, and 1:16 using MPVE sampling pattern with pixels at 500, 250, 125, 63, and 32 Hz.
 
-200x slower. Comparison of 1:4, 1:8, and 1:16.
+<img src="https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/d000791d-05eb-44a0-a9dc-6c4d11ece2e8" width=500px>
+
+While the dynamic range is enhanced by larger exposure ratios, the speeds of recovered HDR videos remain at 1000FPS. Video demos are shown below.
+
+Original speed (1000FPS), comparison of 1:4, 1:8, and 1:16:
 
 https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/4fe7bcd0-f920-4156-ba04-caf382f7de1c
+
+330x slower (30FPS):
 
 https://github.com/BradiWang/Pix2hdr_videos/assets/71883997/8dd96937-5510-4d86-b9bc-9bfd0f8cfe21
